@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="hellox-1's GitHub profile" src="dark_mode.svg" />
+</picture>
 <!--
 **sanchitx1/sanchitx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
